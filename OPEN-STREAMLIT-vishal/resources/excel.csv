@@ -1,0 +1,501 @@
+Policy,Expiry,Location,State,Region,Investment,Construction,BusinessType,Earthquake,Flood,Rating
+405711,01-Jan-22,Rural,Delhi,North,27127845,Masonry,Apartment,N,Y,7.7
+535829,02-Jan-22,Rural,Delhi,South,25400139,Masonry,Retail,Y,Y,6.0
+217952,03-Jan-22,Rural,Tamil Nadu,East,15814545,Fire Resist,Hospitality,Y,Y,8.0
+252315,04-Jan-22,Urban,Delhi,West,35614071,Fire Resist,Retail,N,N,6.7
+982371,05-Jan-22,Urban,Maharashtra,East,39114173,Masonry,Farming,Y,Y,6.2
+459783,06-Jan-22,Rural,Maharashtra,South,5597035,Fire Resist,Farming,Y,Y,7.6
+404137,07-Jan-22,Urban,Karnataka,South,1274964,Fire Resist,Hospitality,N,N,6.5
+222579,08-Jan-22,Urban,Gujarat,East,26997787,Fire Resist,Retail,Y,N,6.1
+710581,09-Jan-22,Rural,Tamil Nadu,South,29292572,Fire Resist,Farming,Y,N,9.4
+548242,10-Jan-22,Urban,Maharashtra,South,7426894,Frame,Farming,Y,N,5.8
+474564,11-Jan-22,Rural,Maharashtra,South,26192528,Fire Resist,Apartment,Y,Y,6.4
+835831,12-Jan-22,Urban,Maharashtra,Central,11551743,Fire Resist,Retail,Y,N,6.9
+836326,13-Jan-22,Rural,Maharashtra,Central,9371942,Fire Resist,Retail,Y,Y,6.4
+410744,14-Jan-22,Urban,Karnataka,North,33342059,Fire Resist,Apartment,N,Y,6.1
+270584,15-Jan-22,Urban,Delhi,East,4079323,Frame,Farming,N,N,8.9
+939052,16-Jan-22,Rural,Maharashtra,West,26162747,Frame,Apartment,Y,N,6.6
+704474,17-Jan-22,Urban,Karnataka,East,28560471,Masonry,Apartment,Y,Y,5.6
+641377,18-Jan-22,Urban,Gujarat,East,19584866,Fire Resist,Apartment,N,N,7.7
+774343,19-Jan-22,Urban,Delhi,North,25644417,Fire Resist,Farming,N,N,5.6
+470775,20-Jan-22,Urban,Gujarat,Central,15617365,Masonry,Hospitality,Y,Y,6.8
+845048,21-Jan-22,Urban,Delhi,West,31853700,Frame,Hospitality,N,N,9.4
+987633,22-Jan-22,Rural,Delhi,West,2803240,Masonry,Hospitality,N,N,6.8
+355653,23-Jan-22,Urban,Delhi,North,1520103,Frame,Apartment,Y,Y,8.2
+706745,24-Jan-22,Rural,Karnataka,South,29201752,Masonry,Hospitality,N,Y,7.6
+954131,25-Jan-22,Urban,Tamil Nadu,East,17791825,Masonry,Retail,N,N,5.7
+432752,26-Jan-22,Urban,Gujarat,East,5149172,Fire Resist,Hospitality,Y,N,8.2
+530835,27-Jan-22,Rural,Delhi,West,35860506,Masonry,Farming,Y,Y,9.3
+632165,28-Jan-22,Rural,Delhi,East,6082760,Frame,Apartment,Y,N,5.5
+446110,29-Jan-22,Rural,Maharashtra,West,4107589,Frame,Apartment,Y,Y,8.8
+697423,30-Jan-22,Rural,Maharashtra,Central,21862177,Masonry,Hospitality,Y,N,8.5
+541170,31-Jan-22,Urban,Karnataka,Central,7807802,Frame,Apartment,N,N,9.3
+470648,01-Feb-22,Urban,Delhi,West,49901714,Masonry,Apartment,Y,Y,5.5
+656209,02-Feb-22,Rural,Gujarat,North,26351946,Fire Resist,Apartment,Y,Y,6.5
+330131,03-Feb-22,Urban,Gujarat,East,41864318,Fire Resist,Apartment,N,N,8.5
+149811,04-Feb-22,Rural,Maharashtra,West,6932573,Fire Resist,Retail,N,N,5.1
+824115,05-Feb-22,Rural,Maharashtra,North,36946635,Fire Resist,Farming,Y,N,8.7
+573998,06-Feb-22,Rural,Tamil Nadu,Central,48751495,Masonry,Retail,Y,N,9.3
+845895,07-Feb-22,Rural,Delhi,East,23580794,Frame,Hospitality,Y,Y,7.3
+222144,08-Feb-22,Urban,Delhi,East,17987102,Masonry,Hospitality,N,Y,7.2
+283561,09-Feb-22,Urban,Maharashtra,Central,17087082,Frame,Apartment,Y,N,6.4
+184665,10-Feb-22,Rural,Maharashtra,South,43098645,Masonry,Apartment,Y,N,5.0
+481567,11-Feb-22,Urban,Maharashtra,West,2794713,Frame,Hospitality,Y,Y,5.9
+403648,12-Feb-22,Urban,Tamil Nadu,North,2033014,Frame,Apartment,N,Y,9.9
+614591,13-Feb-22,Rural,Tamil Nadu,North,16979638,Masonry,Retail,Y,N,9.3
+936298,14-Feb-22,Rural,Tamil Nadu,South,31949715,Fire Resist,Apartment,Y,N,6.3
+577428,15-Feb-22,Rural,Delhi,North,10074713,Masonry,Retail,Y,Y,9.8
+749891,16-Feb-22,Urban,Tamil Nadu,North,35793645,Fire Resist,Farming,Y,Y,6.8
+327838,17-Feb-22,Urban,Delhi,East,40748985,Masonry,Retail,N,Y,6.5
+373867,18-Feb-22,Urban,Maharashtra,West,18285610,Frame,Hospitality,N,Y,5.8
+537106,19-Feb-22,Rural,Delhi,East,29056707,Fire Resist,Hospitality,N,Y,9.5
+510807,20-Feb-22,Rural,Gujarat,Central,23938484,Frame,Hospitality,Y,N,9.9
+420290,21-Feb-22,Urban,Karnataka,East,24370708,Frame,Retail,N,N,6.6
+995104,22-Feb-22,Rural,Maharashtra,South,40325681,Frame,Farming,Y,N,8.5
+814660,23-Feb-22,Urban,Gujarat,West,30098835,Masonry,Hospitality,Y,N,6.7
+975573,24-Feb-22,Urban,Karnataka,South,30706489,Frame,Apartment,Y,N,5.5
+171557,25-Feb-22,Urban,Gujarat,West,28003429,Masonry,Retail,Y,Y,7.0
+251078,26-Feb-22,Rural,Karnataka,West,25115361,Fire Resist,Farming,Y,Y,7.8
+758920,27-Feb-22,Rural,Karnataka,West,25336828,Frame,Retail,Y,Y,5.6
+161713,28-Feb-22,Urban,Tamil Nadu,North,3141913,Fire Resist,Retail,Y,Y,9.1
+720879,01-Mar-22,Rural,Gujarat,East,5770748,Fire Resist,Farming,Y,N,7.5
+145444,02-Mar-22,Urban,Gujarat,North,47823589,Masonry,Retail,Y,N,6.2
+871689,03-Mar-22,Rural,Maharashtra,North,38240404,Fire Resist,Hospitality,N,Y,8.0
+670810,04-Mar-22,Urban,Delhi,East,35240784,Masonry,Farming,Y,Y,9.0
+213183,05-Mar-22,Urban,Gujarat,South,36522024,Masonry,Retail,N,N,6.6
+186904,06-Mar-22,Rural,Gujarat,West,41279585,Fire Resist,Apartment,N,N,8.5
+120737,07-Mar-22,Urban,Maharashtra,South,30974369,Fire Resist,Farming,Y,Y,7.1
+621537,08-Mar-22,Urban,Maharashtra,South,11279113,Fire Resist,Apartment,N,N,9.8
+784007,09-Mar-22,Urban,Tamil Nadu,Central,9149079,Masonry,Retail,N,N,8.9
+816713,10-Mar-22,Urban,Delhi,North,38786948,Masonry,Apartment,N,N,6.8
+454361,11-Mar-22,Urban,Delhi,West,46070616,Fire Resist,Farming,N,N,5.1
+180163,12-Mar-22,Rural,Tamil Nadu,East,22128198,Masonry,Retail,Y,N,8.3
+374278,13-Mar-22,Rural,Maharashtra,South,46408097,Fire Resist,Farming,Y,Y,6.0
+147883,14-Mar-22,Rural,Maharashtra,Central,5752754,Masonry,Retail,Y,Y,5.6
+862286,15-Mar-22,Rural,Maharashtra,Central,48633151,Masonry,Hospitality,Y,N,9.7
+186107,16-Mar-22,Rural,Gujarat,South,32600188,Frame,Hospitality,Y,N,10.0
+949792,17-Mar-22,Rural,Delhi,South,48086808,Frame,Hospitality,Y,Y,6.3
+807171,18-Mar-22,Rural,Delhi,Central,26249853,Fire Resist,Apartment,N,N,6.5
+896213,19-Mar-22,Rural,Karnataka,North,30055988,Frame,Apartment,Y,Y,5.8
+512556,20-Mar-22,Urban,Karnataka,Central,40763577,Masonry,Hospitality,Y,Y,7.3
+651545,21-Mar-22,Urban,Gujarat,Central,24745309,Fire Resist,Farming,N,Y,9.3
+509514,22-Mar-22,Urban,Gujarat,Central,23349039,Frame,Farming,Y,Y,8.5
+636660,23-Mar-22,Urban,Delhi,North,22226488,Fire Resist,Retail,N,N,9.2
+497636,24-Mar-22,Rural,Karnataka,North,48353884,Fire Resist,Farming,N,Y,6.1
+997798,25-Mar-22,Rural,Tamil Nadu,North,7909315,Masonry,Farming,N,Y,8.7
+969423,26-Mar-22,Rural,Maharashtra,East,47174674,Frame,Apartment,Y,N,9.6
+686367,27-Mar-22,Rural,Delhi,East,35884870,Masonry,Farming,Y,Y,6.4
+310932,28-Mar-22,Urban,Tamil Nadu,East,1047188,Fire Resist,Farming,Y,Y,8.5
+858915,29-Mar-22,Rural,Gujarat,East,5310293,Fire Resist,Retail,Y,N,7.0
+883308,30-Mar-22,Urban,Maharashtra,West,47566298,Fire Resist,Hospitality,N,Y,6.5
+238084,31-Mar-22,Urban,Gujarat,West,39465984,Frame,Hospitality,Y,N,9.8
+371540,01-Apr-22,Rural,Karnataka,West,5684142,Masonry,Apartment,Y,N,6.7
+605832,02-Apr-22,Rural,Tamil Nadu,South,36907971,Masonry,Apartment,Y,N,5.5
+366062,03-Apr-22,Rural,Maharashtra,West,27474293,Frame,Retail,N,N,6.9
+109359,04-Apr-22,Urban,Maharashtra,South,24993125,Masonry,Apartment,N,Y,7.2
+478516,05-Apr-22,Rural,Gujarat,Central,29804472,Masonry,Retail,N,Y,8.8
+275331,06-Apr-22,Rural,Delhi,West,12910480,Fire Resist,Hospitality,Y,Y,9.7
+246199,07-Apr-22,Rural,Tamil Nadu,North,26741963,Fire Resist,Hospitality,N,Y,9.1
+602479,08-Apr-22,Urban,Maharashtra,East,11381292,Fire Resist,Retail,N,Y,9.7
+201261,09-Apr-22,Rural,Maharashtra,South,26344386,Frame,Hospitality,Y,N,7.4
+923669,10-Apr-22,Rural,Karnataka,Central,27844470,Fire Resist,Farming,N,N,8.6
+441845,11-Apr-22,Rural,Tamil Nadu,West,39544901,Masonry,Farming,N,N,6.5
+370896,12-Apr-22,Rural,Tamil Nadu,East,16264529,Frame,Hospitality,N,N,5.3
+208101,13-Apr-22,Rural,Maharashtra,North,42082618,Masonry,Retail,Y,Y,6.8
+311113,14-Apr-22,Urban,Tamil Nadu,Central,25092541,Frame,Farming,Y,N,8.5
+564547,15-Apr-22,Urban,Tamil Nadu,North,35414158,Masonry,Farming,N,N,6.4
+412768,16-Apr-22,Rural,Maharashtra,West,36862405,Frame,Hospitality,Y,Y,9.3
+844543,17-Apr-22,Urban,Maharashtra,South,26426766,Masonry,Apartment,N,Y,9.0
+926565,18-Apr-22,Urban,Gujarat,Central,47334062,Fire Resist,Apartment,N,Y,6.0
+718078,19-Apr-22,Urban,Gujarat,West,8637612,Frame,Hospitality,Y,Y,6.7
+862112,20-Apr-22,Rural,Gujarat,West,29115998,Masonry,Hospitality,Y,N,9.1
+286225,21-Apr-22,Urban,Gujarat,South,16454050,Masonry,Farming,N,Y,6.2
+333138,22-Apr-22,Rural,Tamil Nadu,South,5531971,Masonry,Retail,Y,N,6.7
+424900,23-Apr-22,Urban,Karnataka,West,24480157,Masonry,Retail,Y,Y,6.7
+749122,24-Apr-22,Rural,Maharashtra,South,42232684,Fire Resist,Farming,N,N,9.0
+190928,25-Apr-22,Urban,Maharashtra,Central,29928627,Fire Resist,Farming,N,N,5.2
+706045,26-Apr-22,Rural,Delhi,South,32377662,Frame,Retail,Y,Y,5.4
+184355,27-Apr-22,Rural,Karnataka,Central,10276416,Frame,Apartment,N,Y,7.9
+724226,28-Apr-22,Urban,Karnataka,West,25637201,Masonry,Apartment,N,N,7.0
+541898,29-Apr-22,Rural,Maharashtra,East,11537373,Frame,Retail,Y,N,8.2
+952941,30-Apr-22,Urban,Karnataka,West,25064930,Masonry,Hospitality,N,Y,6.3
+317456,01-May-22,Urban,Delhi,West,12273202,Frame,Hospitality,N,N,9.5
+568967,02-May-22,Urban,Tamil Nadu,West,36118067,Frame,Farming,Y,N,8.8
+124777,03-May-22,Rural,Gujarat,Central,35809060,Masonry,Apartment,Y,N,5.3
+638112,04-May-22,Urban,Delhi,East,40400469,Fire Resist,Hospitality,N,N,8.9
+359978,05-May-22,Rural,Gujarat,South,5239423,Masonry,Hospitality,Y,Y,9.8
+495634,06-May-22,Urban,Maharashtra,North,18356510,Fire Resist,Hospitality,Y,Y,9.7
+506059,07-May-22,Rural,Tamil Nadu,Central,48562232,Frame,Retail,Y,N,8.7
+440922,08-May-22,Rural,Delhi,West,9054373,Fire Resist,Farming,Y,N,5.6
+398367,09-May-22,Urban,Karnataka,West,38436049,Masonry,Farming,Y,Y,7.9
+875867,10-May-22,Rural,Tamil Nadu,North,22748774,Frame,Apartment,Y,Y,6.4
+423714,11-May-22,Rural,Delhi,South,45148431,Fire Resist,Hospitality,N,N,9.9
+892953,12-May-22,Urban,Tamil Nadu,East,3304897,Fire Resist,Farming,N,N,8.6
+581378,13-May-22,Rural,Maharashtra,West,12246294,Masonry,Retail,Y,N,8.1
+550110,14-May-22,Rural,Karnataka,North,12716333,Frame,Retail,Y,Y,8.5
+961091,15-May-22,Rural,Gujarat,West,37462097,Frame,Retail,N,Y,7.2
+196990,16-May-22,Rural,Gujarat,North,29787948,Fire Resist,Hospitality,Y,N,6.9
+884507,17-May-22,Rural,Gujarat,South,32500213,Fire Resist,Retail,N,Y,9.7
+208483,18-May-22,Urban,Delhi,North,26705878,Fire Resist,Hospitality,Y,N,6.7
+483570,19-May-22,Urban,Tamil Nadu,West,47216653,Frame,Farming,N,Y,5.2
+114254,20-May-22,Rural,Karnataka,Central,11054831,Fire Resist,Retail,Y,N,7.0
+938371,21-May-22,Rural,Karnataka,South,11839746,Fire Resist,Hospitality,Y,N,9.0
+582452,22-May-22,Rural,Delhi,North,5514059,Frame,Apartment,Y,N,8.2
+137073,23-May-22,Rural,Karnataka,Central,35011634,Frame,Farming,N,Y,9.8
+872658,24-May-22,Urban,Karnataka,East,39791976,Masonry,Farming,Y,N,5.5
+334907,25-May-22,Rural,Tamil Nadu,East,21230070,Frame,Hospitality,N,N,9.6
+918217,26-May-22,Urban,Tamil Nadu,North,4408819,Frame,Hospitality,Y,N,6.8
+164570,27-May-22,Urban,Tamil Nadu,South,35038532,Masonry,Farming,Y,Y,7.4
+180577,28-May-22,Rural,Delhi,West,10828234,Frame,Hospitality,Y,Y,7.1
+549572,29-May-22,Urban,Delhi,East,42939590,Masonry,Retail,Y,N,5.6
+516522,30-May-22,Rural,Delhi,Central,36372360,Frame,Hospitality,N,Y,6.2
+661238,31-May-22,Urban,Karnataka,Central,23805896,Masonry,Farming,Y,Y,8.7
+440840,01-Jun-22,Rural,Gujarat,Central,29721644,Fire Resist,Retail,Y,N,5.1
+847531,02-Jun-22,Rural,Karnataka,East,26800421,Fire Resist,Hospitality,Y,N,5.7
+344482,03-Jun-22,Urban,Tamil Nadu,North,28439122,Fire Resist,Retail,N,N,5.1
+985043,04-Jun-22,Rural,Gujarat,East,6482693,Masonry,Hospitality,N,Y,9.3
+965360,05-Jun-22,Rural,Maharashtra,South,16614457,Fire Resist,Farming,Y,N,8.1
+179904,06-Jun-22,Urban,Gujarat,South,44972196,Frame,Farming,N,Y,5.8
+432982,07-Jun-22,Rural,Tamil Nadu,North,30917546,Masonry,Retail,Y,N,8.8
+527136,08-Jun-22,Urban,Tamil Nadu,Central,8080093,Frame,Farming,Y,N,9.8
+451014,09-Jun-22,Urban,Tamil Nadu,East,14018267,Frame,Farming,Y,Y,9.7
+468915,10-Jun-22,Urban,Tamil Nadu,North,26451153,Frame,Retail,Y,Y,9.6
+596814,11-Jun-22,Urban,Maharashtra,West,49329146,Masonry,Retail,N,N,5.0
+474314,12-Jun-22,Rural,Gujarat,South,26346443,Frame,Farming,Y,N,7.9
+474131,13-Jun-22,Urban,Maharashtra,West,49313672,Fire Resist,Retail,N,N,6.3
+478040,14-Jun-22,Urban,Karnataka,West,28660632,Masonry,Retail,N,N,7.8
+725084,15-Jun-22,Rural,Gujarat,East,33302595,Fire Resist,Hospitality,N,Y,6.6
+454792,16-Jun-22,Urban,Karnataka,North,14619001,Masonry,Apartment,Y,N,5.8
+869613,17-Jun-22,Urban,Karnataka,West,27578354,Frame,Farming,N,N,7.2
+343998,18-Jun-22,Urban,Karnataka,West,44675577,Fire Resist,Farming,N,Y,7.5
+965560,19-Jun-22,Rural,Tamil Nadu,Central,26452406,Masonry,Hospitality,Y,Y,9.9
+452893,20-Jun-22,Urban,Gujarat,Central,6692388,Frame,Farming,N,N,5.2
+264610,21-Jun-22,Rural,Delhi,West,19524071,Frame,Farming,Y,Y,6.5
+632574,22-Jun-22,Urban,Gujarat,East,48068670,Masonry,Farming,Y,Y,9.3
+471938,23-Jun-22,Urban,Tamil Nadu,West,29758173,Masonry,Retail,N,Y,8.3
+728587,24-Jun-22,Urban,Gujarat,South,1700483,Masonry,Farming,Y,N,9.1
+230317,25-Jun-22,Urban,Tamil Nadu,North,33745016,Masonry,Farming,N,N,8.3
+884240,26-Jun-22,Rural,Gujarat,East,36707083,Fire Resist,Apartment,N,N,8.8
+113640,27-Jun-22,Rural,Gujarat,Central,24518583,Masonry,Hospitality,N,Y,7.5
+538879,28-Jun-22,Rural,Karnataka,North,40282989,Frame,Hospitality,N,N,6.0
+103912,29-Jun-22,Urban,Maharashtra,South,39242383,Fire Resist,Retail,N,Y,9.1
+281658,30-Jun-22,Urban,Gujarat,East,25042721,Frame,Farming,N,N,7.8
+121752,01-Jul-22,Rural,Delhi,East,3905099,Frame,Farming,Y,N,5.7
+878420,02-Jul-22,Rural,Maharashtra,East,22274103,Masonry,Farming,Y,N,9.0
+946147,03-Jul-22,Urban,Delhi,Central,34351813,Fire Resist,Farming,Y,Y,9.8
+582284,04-Jul-22,Rural,Gujarat,North,15697374,Masonry,Retail,Y,Y,6.7
+632285,05-Jul-22,Rural,Tamil Nadu,South,26783482,Frame,Apartment,N,N,6.5
+546222,06-Jul-22,Urban,Gujarat,West,26855556,Masonry,Hospitality,Y,N,5.4
+337507,07-Jul-22,Rural,Karnataka,West,19047291,Masonry,Apartment,N,N,8.3
+170381,08-Jul-22,Rural,Tamil Nadu,West,32498784,Masonry,Farming,N,Y,9.8
+416412,09-Jul-22,Urban,Delhi,North,8130917,Masonry,Apartment,N,Y,5.7
+864502,10-Jul-22,Rural,Gujarat,East,39444203,Masonry,Apartment,Y,N,7.4
+431213,11-Jul-22,Urban,Gujarat,South,19489981,Masonry,Hospitality,N,N,5.5
+954905,12-Jul-22,Rural,Tamil Nadu,Central,3696347,Fire Resist,Apartment,N,N,5.2
+191757,13-Jul-22,Rural,Gujarat,East,46379303,Masonry,Apartment,Y,N,8.3
+727531,14-Jul-22,Urban,Maharashtra,Central,10356059,Fire Resist,Apartment,Y,N,9.3
+273584,15-Jul-22,Urban,Delhi,East,28980829,Masonry,Retail,Y,Y,6.7
+716597,16-Jul-22,Urban,Gujarat,West,24076990,Fire Resist,Retail,Y,N,9.4
+461582,17-Jul-22,Urban,Gujarat,East,5429896,Frame,Retail,N,Y,5.6
+739001,18-Jul-22,Rural,Tamil Nadu,West,33052299,Fire Resist,Apartment,N,Y,6.2
+470128,19-Jul-22,Rural,Karnataka,West,28977825,Fire Resist,Retail,Y,N,9.5
+772700,20-Jul-22,Urban,Delhi,South,39538446,Frame,Apartment,Y,N,7.5
+101913,21-Jul-22,Urban,Maharashtra,South,10137702,Masonry,Apartment,N,N,8.0
+545302,22-Jul-22,Rural,Maharashtra,Central,24342347,Masonry,Retail,Y,N,5.2
+113429,23-Jul-22,Rural,Tamil Nadu,Central,48589042,Fire Resist,Farming,Y,N,5.6
+224349,24-Jul-22,Urban,Maharashtra,North,42950248,Masonry,Apartment,N,Y,5.3
+376051,25-Jul-22,Urban,Karnataka,North,22734598,Masonry,Apartment,N,Y,9.5
+921921,26-Jul-22,Urban,Gujarat,Central,11098974,Frame,Hospitality,Y,N,5.7
+503304,27-Jul-22,Rural,Delhi,South,48391867,Masonry,Retail,Y,Y,9.2
+215616,28-Jul-22,Urban,Gujarat,West,44545891,Masonry,Hospitality,N,Y,6.8
+770948,29-Jul-22,Rural,Tamil Nadu,North,17912852,Fire Resist,Apartment,Y,N,9.0
+924827,30-Jul-22,Urban,Gujarat,South,30182916,Masonry,Hospitality,N,Y,6.8
+160155,31-Jul-22,Urban,Karnataka,West,15684932,Masonry,Apartment,N,Y,6.3
+745241,01-Aug-22,Rural,Maharashtra,North,43627761,Fire Resist,Hospitality,Y,Y,5.5
+793574,02-Aug-22,Urban,Delhi,South,47895988,Fire Resist,Apartment,N,Y,6.4
+362613,03-Aug-22,Urban,Karnataka,Central,45803229,Fire Resist,Retail,N,N,7.4
+143295,04-Aug-22,Urban,Tamil Nadu,South,48568575,Masonry,Hospitality,Y,N,9.1
+174253,05-Aug-22,Rural,Delhi,North,47676797,Masonry,Hospitality,N,N,7.3
+740839,06-Aug-22,Rural,Gujarat,West,2049179,Masonry,Farming,Y,N,9.9
+265560,07-Aug-22,Urban,Tamil Nadu,North,23306003,Masonry,Farming,Y,N,7.7
+793400,08-Aug-22,Urban,Gujarat,East,38937512,Masonry,Retail,N,Y,5.1
+510191,09-Aug-22,Urban,Karnataka,Central,44246153,Masonry,Apartment,Y,N,7.1
+728777,10-Aug-22,Rural,Karnataka,East,14670322,Fire Resist,Farming,N,Y,8.4
+348082,11-Aug-22,Urban,Tamil Nadu,North,15035167,Fire Resist,Retail,Y,Y,6.2
+246984,12-Aug-22,Urban,Maharashtra,North,13865374,Masonry,Retail,N,N,8.5
+444271,13-Aug-22,Rural,Tamil Nadu,South,7924049,Frame,Apartment,N,N,7.5
+901547,14-Aug-22,Urban,Maharashtra,South,18688263,Fire Resist,Apartment,Y,N,5.1
+481094,15-Aug-22,Rural,Tamil Nadu,East,1335672,Masonry,Hospitality,Y,N,8.9
+704271,16-Aug-22,Urban,Tamil Nadu,South,12025395,Fire Resist,Hospitality,Y,N,7.8
+283645,17-Aug-22,Urban,Delhi,South,42843491,Frame,Retail,Y,Y,5.4
+325273,18-Aug-22,Rural,Maharashtra,East,4088585,Fire Resist,Retail,N,Y,7.4
+351009,19-Aug-22,Rural,Maharashtra,South,41759671,Fire Resist,Retail,N,Y,6.4
+557439,20-Aug-22,Urban,Karnataka,East,27299335,Fire Resist,Hospitality,Y,N,9.4
+863766,21-Aug-22,Urban,Gujarat,West,4037813,Fire Resist,Farming,N,Y,6.4
+635340,22-Aug-22,Rural,Karnataka,East,13347971,Masonry,Apartment,N,N,9.7
+115741,23-Aug-22,Rural,Maharashtra,South,19665083,Frame,Retail,N,Y,7.7
+943800,24-Aug-22,Rural,Delhi,Central,48734471,Masonry,Hospitality,Y,N,6.6
+194275,25-Aug-22,Urban,Maharashtra,Central,39111550,Fire Resist,Hospitality,N,Y,9.1
+406130,26-Aug-22,Urban,Gujarat,East,39616008,Fire Resist,Apartment,N,N,8.5
+367247,27-Aug-22,Urban,Gujarat,Central,40914501,Fire Resist,Farming,N,N,7.1
+746915,28-Aug-22,Urban,Tamil Nadu,Central,8577185,Frame,Retail,Y,Y,8.1
+659338,29-Aug-22,Urban,Delhi,South,39076471,Frame,Apartment,Y,Y,8.9
+494956,30-Aug-22,Rural,Karnataka,West,14202862,Masonry,Hospitality,Y,N,9.3
+417414,31-Aug-22,Urban,Delhi,West,1985126,Fire Resist,Farming,Y,Y,9.1
+767939,01-Sep-22,Urban,Tamil Nadu,South,42103921,Frame,Retail,N,Y,5.8
+433526,02-Sep-22,Urban,Maharashtra,West,12208968,Fire Resist,Hospitality,Y,Y,9.1
+473758,03-Sep-22,Urban,Gujarat,East,34259130,Masonry,Hospitality,N,Y,5.3
+278877,04-Sep-22,Urban,Maharashtra,West,24160001,Masonry,Apartment,N,N,6.0
+775525,05-Sep-22,Rural,Maharashtra,Central,48093058,Frame,Hospitality,Y,Y,8.1
+233847,06-Sep-22,Rural,Tamil Nadu,South,8918654,Masonry,Retail,N,N,5.6
+839883,07-Sep-22,Rural,Karnataka,North,6171216,Frame,Hospitality,Y,Y,8.0
+655040,08-Sep-22,Rural,Maharashtra,Central,18690818,Fire Resist,Apartment,Y,N,6.5
+975531,09-Sep-22,Rural,Gujarat,Central,33193803,Frame,Apartment,Y,Y,7.1
+310536,10-Sep-22,Urban,Gujarat,East,7098314,Masonry,Farming,N,Y,6.6
+171892,11-Sep-22,Urban,Karnataka,North,46256724,Fire Resist,Farming,N,N,5.4
+658218,12-Sep-22,Rural,Karnataka,East,34530980,Masonry,Hospitality,N,Y,7.5
+146774,13-Sep-22,Rural,Tamil Nadu,South,12669112,Fire Resist,Hospitality,N,Y,9.8
+390795,14-Sep-22,Rural,Delhi,North,46023284,Fire Resist,Hospitality,Y,N,8.1
+425029,15-Sep-22,Rural,Gujarat,South,21694917,Fire Resist,Farming,N,N,6.5
+247069,16-Sep-22,Rural,Maharashtra,West,33328974,Fire Resist,Farming,N,N,9.8
+558396,17-Sep-22,Rural,Tamil Nadu,Central,5793970,Masonry,Hospitality,Y,N,6.9
+985359,18-Sep-22,Rural,Karnataka,West,28083502,Frame,Farming,Y,N,8.5
+984200,19-Sep-22,Rural,Maharashtra,South,40513039,Fire Resist,Apartment,N,N,8.2
+698786,20-Sep-22,Urban,Delhi,East,30360947,Masonry,Farming,Y,Y,9.8
+163003,21-Sep-22,Urban,Karnataka,Central,26304096,Masonry,Apartment,Y,Y,9.6
+448115,22-Sep-22,Urban,Delhi,Central,30778327,Masonry,Hospitality,N,Y,5.7
+527225,23-Sep-22,Rural,Delhi,North,40671545,Frame,Apartment,Y,Y,5.4
+274743,24-Sep-22,Rural,Gujarat,West,38020507,Masonry,Retail,Y,Y,9.0
+563155,25-Sep-22,Rural,Gujarat,South,21444873,Masonry,Hospitality,N,Y,9.5
+904014,26-Sep-22,Rural,Delhi,South,2501304,Frame,Apartment,Y,Y,7.5
+916276,27-Sep-22,Urban,Gujarat,South,46184065,Masonry,Apartment,N,N,8.5
+184917,28-Sep-22,Urban,Karnataka,South,39789975,Masonry,Farming,N,Y,5.3
+138429,29-Sep-22,Rural,Delhi,East,24071228,Frame,Apartment,N,N,6.1
+443619,30-Sep-22,Urban,Delhi,South,26761478,Frame,Farming,N,Y,5.7
+962755,01-Oct-22,Rural,Tamil Nadu,East,39923964,Frame,Apartment,N,N,8.0
+182727,02-Oct-22,Rural,Tamil Nadu,East,7280228,Fire Resist,Apartment,N,Y,6.0
+422953,03-Oct-22,Rural,Tamil Nadu,North,32044492,Frame,Farming,N,Y,5.3
+757481,04-Oct-22,Rural,Tamil Nadu,North,45454819,Fire Resist,Retail,Y,Y,6.5
+800713,05-Oct-22,Rural,Maharashtra,West,22127230,Fire Resist,Apartment,N,N,8.4
+845347,06-Oct-22,Urban,Tamil Nadu,South,37144581,Frame,Apartment,N,Y,7.9
+759246,07-Oct-22,Urban,Karnataka,East,9582974,Fire Resist,Hospitality,Y,Y,6.7
+665978,08-Oct-22,Urban,Maharashtra,North,42767500,Masonry,Farming,Y,N,9.2
+319058,09-Oct-22,Urban,Karnataka,South,31076434,Masonry,Farming,N,Y,6.4
+836108,10-Oct-22,Rural,Tamil Nadu,North,49998784,Frame,Retail,N,Y,6.3
+175523,11-Oct-22,Urban,Delhi,North,28624449,Fire Resist,Hospitality,Y,Y,7.8
+871871,12-Oct-22,Urban,Maharashtra,West,28932372,Masonry,Retail,N,Y,7.4
+213417,13-Oct-22,Urban,Delhi,East,14255373,Fire Resist,Retail,N,Y,7.2
+488490,14-Oct-22,Urban,Karnataka,East,6514842,Fire Resist,Apartment,N,N,5.8
+226491,15-Oct-22,Rural,Karnataka,North,49725099,Masonry,Apartment,N,Y,7.5
+182119,16-Oct-22,Rural,Maharashtra,South,38926037,Frame,Farming,Y,Y,6.3
+592967,17-Oct-22,Rural,Karnataka,East,39663437,Fire Resist,Hospitality,N,Y,7.0
+236253,18-Oct-22,Rural,Maharashtra,West,2938408,Masonry,Farming,N,Y,8.7
+143349,19-Oct-22,Rural,Karnataka,East,30609027,Frame,Hospitality,Y,N,9.7
+307650,20-Oct-22,Urban,Delhi,West,49645993,Fire Resist,Farming,Y,N,8.9
+273986,21-Oct-22,Rural,Gujarat,South,29309765,Fire Resist,Retail,Y,N,7.0
+301816,22-Oct-22,Urban,Tamil Nadu,North,45515354,Fire Resist,Retail,Y,Y,8.0
+696001,23-Oct-22,Urban,Tamil Nadu,South,47560667,Fire Resist,Retail,Y,N,8.7
+606501,24-Oct-22,Rural,Gujarat,South,17220139,Frame,Apartment,Y,N,7.1
+294792,25-Oct-22,Rural,Gujarat,West,32532781,Fire Resist,Hospitality,Y,Y,6.8
+301471,26-Oct-22,Rural,Maharashtra,South,2048489,Masonry,Hospitality,N,Y,5.7
+478624,27-Oct-22,Rural,Karnataka,North,13843821,Masonry,Apartment,Y,N,8.7
+409538,28-Oct-22,Rural,Delhi,East,4599792,Masonry,Hospitality,Y,Y,9.2
+304997,29-Oct-22,Urban,Tamil Nadu,West,15482393,Frame,Farming,Y,N,6.6
+363038,30-Oct-22,Urban,Gujarat,West,30719757,Masonry,Retail,N,N,8.9
+687701,31-Oct-22,Rural,Gujarat,South,28877767,Fire Resist,Apartment,Y,N,8.1
+220062,01-Nov-22,Urban,Gujarat,South,17063172,Fire Resist,Retail,N,N,8.9
+541424,02-Nov-22,Urban,Karnataka,South,6887531,Masonry,Hospitality,Y,Y,7.1
+523358,03-Nov-22,Rural,Delhi,Central,15707119,Frame,Apartment,Y,Y,8.7
+395048,04-Nov-22,Rural,Gujarat,North,14676254,Frame,Hospitality,N,Y,7.0
+532257,05-Nov-22,Rural,Delhi,South,25828029,Fire Resist,Retail,N,Y,5.4
+946033,06-Nov-22,Urban,Tamil Nadu,Central,36013980,Fire Resist,Hospitality,Y,N,7.8
+715792,07-Nov-22,Urban,Maharashtra,West,43618361,Masonry,Apartment,Y,N,7.3
+212931,08-Nov-22,Rural,Maharashtra,North,22110600,Frame,Hospitality,Y,N,6.3
+703512,09-Nov-22,Rural,Tamil Nadu,Central,22831451,Masonry,Apartment,Y,N,9.5
+431099,10-Nov-22,Urban,Maharashtra,West,32631366,Fire Resist,Apartment,N,N,6.9
+444232,11-Nov-22,Urban,Gujarat,East,35374535,Fire Resist,Apartment,N,N,5.2
+630292,12-Nov-22,Urban,Karnataka,East,40684789,Masonry,Farming,Y,Y,6.9
+528836,13-Nov-22,Rural,Maharashtra,North,16280154,Frame,Hospitality,Y,N,7.1
+997200,14-Nov-22,Rural,Tamil Nadu,Central,6738107,Fire Resist,Hospitality,Y,N,9.3
+666809,15-Nov-22,Urban,Karnataka,Central,36246795,Fire Resist,Retail,Y,Y,9.0
+841699,16-Nov-22,Rural,Tamil Nadu,West,14942565,Frame,Apartment,N,Y,6.0
+943623,17-Nov-22,Urban,Gujarat,East,11732637,Fire Resist,Apartment,N,N,9.2
+682140,18-Nov-22,Rural,Tamil Nadu,East,43539448,Frame,Retail,Y,Y,6.2
+201490,19-Nov-22,Urban,Gujarat,South,29008381,Frame,Hospitality,Y,N,6.7
+384446,20-Nov-22,Rural,Maharashtra,Central,38122487,Fire Resist,Hospitality,Y,Y,5.4
+580285,21-Nov-22,Rural,Karnataka,North,41493207,Masonry,Hospitality,Y,Y,5.3
+707985,22-Nov-22,Rural,Delhi,East,33819897,Fire Resist,Apartment,N,Y,8.4
+676801,23-Nov-22,Rural,Karnataka,North,6363337,Fire Resist,Apartment,N,Y,9.6
+862002,24-Nov-22,Urban,Delhi,North,21020838,Fire Resist,Retail,Y,Y,7.5
+285617,25-Nov-22,Urban,Maharashtra,South,5931987,Fire Resist,Farming,Y,Y,9.2
+219005,26-Nov-22,Urban,Tamil Nadu,East,49122930,Masonry,Farming,N,Y,9.0
+645277,27-Nov-22,Rural,Gujarat,North,20397158,Masonry,Apartment,Y,Y,8.3
+233634,28-Nov-22,Rural,Gujarat,East,27349093,Masonry,Hospitality,Y,Y,9.9
+777957,29-Nov-22,Rural,Gujarat,South,27185705,Frame,Hospitality,N,N,9.0
+256556,30-Nov-22,Rural,Maharashtra,West,44626555,Masonry,Farming,Y,N,6.4
+309781,01-Dec-22,Urban,Maharashtra,West,17392144,Frame,Hospitality,Y,N,8.9
+979357,02-Dec-22,Urban,Delhi,West,42898429,Fire Resist,Farming,N,Y,8.5
+193807,03-Dec-22,Urban,Karnataka,North,28395014,Masonry,Apartment,N,N,7.0
+614139,04-Dec-22,Urban,Karnataka,North,16640209,Masonry,Apartment,Y,Y,5.4
+635893,05-Dec-22,Urban,Tamil Nadu,North,30084703,Masonry,Hospitality,Y,Y,6.1
+985159,06-Dec-22,Urban,Delhi,East,23041247,Masonry,Hospitality,Y,Y,9.0
+488647,07-Dec-22,Rural,Maharashtra,Central,4559514,Masonry,Farming,Y,Y,6.2
+820843,08-Dec-22,Rural,Maharashtra,East,34322023,Fire Resist,Hospitality,Y,N,10.0
+193846,09-Dec-22,Urban,Gujarat,West,18466101,Masonry,Apartment,Y,Y,8.5
+488510,10-Dec-22,Rural,Delhi,Central,1379058,Frame,Hospitality,N,Y,7.4
+292145,11-Dec-22,Urban,Delhi,South,42338442,Frame,Hospitality,Y,N,7.9
+221542,12-Dec-22,Urban,Maharashtra,Central,45611878,Masonry,Hospitality,Y,Y,8.1
+723559,13-Dec-22,Rural,Delhi,South,34593924,Frame,Apartment,N,N,9.8
+333746,14-Dec-22,Urban,Gujarat,North,35154875,Masonry,Hospitality,Y,Y,5.8
+469500,15-Dec-22,Rural,Gujarat,West,26211431,Fire Resist,Farming,Y,Y,6.4
+384715,16-Dec-22,Urban,Maharashtra,North,6574783,Frame,Retail,N,Y,8.5
+788561,17-Dec-22,Urban,Maharashtra,East,15232783,Masonry,Farming,Y,Y,6.2
+178633,18-Dec-22,Urban,Delhi,North,11797069,Frame,Farming,Y,Y,9.4
+188157,19-Dec-22,Urban,Delhi,North,18884323,Masonry,Farming,Y,N,6.7
+621390,20-Dec-22,Rural,Karnataka,Central,18605094,Frame,Apartment,N,Y,5.9
+576565,21-Dec-22,Urban,Delhi,South,15149499,Fire Resist,Farming,N,N,5.2
+882537,22-Dec-22,Urban,Delhi,West,41455563,Frame,Hospitality,Y,N,8.0
+931321,23-Dec-22,Rural,Tamil Nadu,North,7739952,Frame,Apartment,N,N,9.1
+446610,24-Dec-22,Rural,Maharashtra,North,13400438,Frame,Retail,Y,N,6.4
+458880,25-Dec-22,Urban,Delhi,South,45070308,Frame,Farming,N,N,9.6
+441979,26-Dec-22,Urban,Tamil Nadu,East,5756562,Masonry,Retail,Y,N,8.8
+968681,27-Dec-22,Rural,Delhi,East,36219659,Fire Resist,Hospitality,Y,Y,5.3
+578748,28-Dec-22,Urban,Maharashtra,Central,30706931,Fire Resist,Hospitality,N,N,7.9
+902795,29-Dec-22,Rural,Karnataka,South,37903074,Frame,Farming,N,Y,7.8
+518001,30-Dec-22,Urban,Gujarat,North,44090000,Frame,Hospitality,N,Y,6.0
+549129,31-Dec-22,Rural,Maharashtra,East,21283932,Fire Resist,Hospitality,N,Y,6.7
+163418,01-Jan-23,Urban,Maharashtra,East,13958089,Fire Resist,Hospitality,N,N,7.3
+529952,02-Jan-23,Rural,Tamil Nadu,West,20265381,Fire Resist,Apartment,Y,Y,5.2
+976502,03-Jan-23,Rural,Tamil Nadu,West,29243696,Fire Resist,Retail,N,Y,5.7
+821936,04-Jan-23,Rural,Tamil Nadu,Central,17933100,Frame,Farming,N,N,5.8
+696074,05-Jan-23,Urban,Karnataka,East,26650396,Fire Resist,Retail,N,N,6.9
+157508,06-Jan-23,Rural,Tamil Nadu,East,30255321,Frame,Apartment,N,N,8.7
+715006,07-Jan-23,Urban,Maharashtra,South,37572510,Frame,Hospitality,Y,Y,9.2
+434452,08-Jan-23,Rural,Tamil Nadu,West,11464379,Fire Resist,Hospitality,Y,N,5.8
+928611,09-Jan-23,Rural,Delhi,West,41166779,Masonry,Apartment,N,N,8.8
+650195,10-Jan-23,Urban,Delhi,East,22517305,Frame,Hospitality,N,N,8.4
+800552,11-Jan-23,Urban,Gujarat,Central,18075474,Fire Resist,Farming,Y,Y,9.5
+240216,12-Jan-23,Urban,Delhi,East,48975297,Frame,Farming,Y,Y,9.8
+883195,13-Jan-23,Rural,Gujarat,North,46495579,Masonry,Retail,Y,N,5.6
+872846,14-Jan-23,Rural,Delhi,West,40331779,Fire Resist,Apartment,Y,N,5.4
+424695,15-Jan-23,Urban,Karnataka,West,44853757,Frame,Apartment,Y,Y,9.0
+337728,16-Jan-23,Urban,Gujarat,South,26592592,Masonry,Farming,Y,Y,5.8
+495411,17-Jan-23,Urban,Delhi,Central,6410566,Masonry,Hospitality,N,N,6.0
+497896,18-Jan-23,Urban,Gujarat,South,24091712,Frame,Apartment,N,Y,9.4
+548967,19-Jan-23,Urban,Gujarat,West,35494471,Fire Resist,Apartment,N,Y,9.7
+781047,20-Jan-23,Urban,Delhi,Central,37043417,Fire Resist,Hospitality,Y,N,6.6
+938669,21-Jan-23,Rural,Maharashtra,East,8592003,Frame,Apartment,N,N,9.2
+459738,22-Jan-23,Urban,Tamil Nadu,East,24889723,Masonry,Hospitality,N,Y,9.3
+482545,23-Jan-23,Urban,Gujarat,Central,27958196,Masonry,Retail,N,Y,8.0
+924440,24-Jan-23,Urban,Gujarat,North,49929188,Masonry,Retail,Y,N,7.8
+765460,25-Jan-23,Urban,Gujarat,East,33225708,Masonry,Hospitality,Y,N,7.9
+422487,26-Jan-23,Rural,Tamil Nadu,South,3526933,Frame,Retail,Y,Y,6.5
+143723,27-Jan-23,Urban,Gujarat,East,44481599,Masonry,Hospitality,N,N,8.1
+854396,28-Jan-23,Urban,Gujarat,East,45190920,Frame,Hospitality,Y,N,6.2
+809540,29-Jan-23,Urban,Delhi,North,11254959,Fire Resist,Apartment,N,Y,5.9
+550841,30-Jan-23,Rural,Maharashtra,East,47368682,Fire Resist,Hospitality,N,N,7.1
+932288,31-Jan-23,Rural,Karnataka,South,48601732,Masonry,Hospitality,N,N,8.5
+713802,01-Feb-23,Urban,Karnataka,South,27275931,Masonry,Hospitality,Y,N,8.1
+832942,02-Feb-23,Rural,Tamil Nadu,South,35644749,Masonry,Hospitality,Y,Y,9.8
+252022,03-Feb-23,Urban,Karnataka,West,4243661,Fire Resist,Hospitality,N,N,8.2
+861108,04-Feb-23,Urban,Maharashtra,East,11726313,Frame,Farming,N,N,5.7
+853618,05-Feb-23,Urban,Karnataka,East,29066120,Frame,Farming,N,N,5.8
+676836,06-Feb-23,Rural,Maharashtra,Central,47212446,Frame,Farming,N,N,5.5
+408758,07-Feb-23,Urban,Maharashtra,North,29206220,Masonry,Retail,Y,N,6.0
+220035,08-Feb-23,Urban,Delhi,West,25879714,Frame,Apartment,Y,N,8.0
+778778,09-Feb-23,Urban,Karnataka,East,31885763,Masonry,Retail,N,N,9.2
+936179,10-Feb-23,Rural,Gujarat,South,39889704,Fire Resist,Retail,Y,N,9.5
+657703,11-Feb-23,Rural,Tamil Nadu,West,29581392,Frame,Farming,N,Y,7.0
+636520,12-Feb-23,Rural,Gujarat,West,22170437,Masonry,Farming,Y,N,7.8
+729389,13-Feb-23,Urban,Karnataka,South,42864744,Frame,Apartment,N,N,9.0
+203941,14-Feb-23,Urban,Karnataka,Central,31123447,Fire Resist,Hospitality,N,N,6.6
+944032,15-Feb-23,Rural,Gujarat,East,13237725,Frame,Retail,N,N,8.0
+258856,16-Feb-23,Urban,Delhi,North,41060597,Frame,Apartment,N,N,5.9
+275311,17-Feb-23,Rural,Karnataka,Central,26059606,Fire Resist,Hospitality,Y,N,7.4
+868463,18-Feb-23,Rural,Delhi,North,38286245,Masonry,Retail,Y,Y,5.9
+591445,19-Feb-23,Urban,Tamil Nadu,North,13274199,Masonry,Apartment,N,Y,7.3
+989995,20-Feb-23,Urban,Karnataka,East,15033147,Masonry,Retail,Y,Y,7.0
+469668,21-Feb-23,Urban,Gujarat,West,29053370,Frame,Apartment,N,N,7.2
+139335,22-Feb-23,Urban,Delhi,South,34825700,Frame,Retail,Y,Y,6.2
+530428,23-Feb-23,Urban,Tamil Nadu,North,20160811,Masonry,Hospitality,N,N,5.7
+283213,24-Feb-23,Urban,Maharashtra,Central,15004411,Masonry,Retail,Y,N,6.4
+293818,25-Feb-23,Urban,Tamil Nadu,East,31317510,Frame,Farming,N,Y,6.2
+264426,26-Feb-23,Urban,Delhi,East,6931352,Masonry,Retail,N,N,8.7
+547470,27-Feb-23,Rural,Karnataka,Central,21244044,Masonry,Hospitality,N,Y,8.6
+369745,28-Feb-23,Urban,Karnataka,North,35051089,Frame,Farming,N,Y,7.9
+652155,01-Mar-23,Rural,Maharashtra,North,29374623,Fire Resist,Hospitality,N,Y,5.5
+373203,02-Mar-23,Urban,Delhi,North,47245424,Frame,Hospitality,Y,Y,7.8
+166275,03-Mar-23,Rural,Karnataka,Central,7934309,Masonry,Apartment,Y,Y,5.4
+514482,04-Mar-23,Urban,Karnataka,North,8936625,Masonry,Hospitality,N,Y,5.1
+848917,05-Mar-23,Urban,Delhi,Central,46771628,Fire Resist,Hospitality,N,Y,6.8
+236482,06-Mar-23,Urban,Tamil Nadu,East,3973279,Fire Resist,Hospitality,Y,N,6.2
+410835,07-Mar-23,Rural,Gujarat,Central,3548668,Frame,Farming,N,N,8.0
+804158,08-Mar-23,Urban,Tamil Nadu,South,2577757,Fire Resist,Retail,N,Y,9.6
+182357,09-Mar-23,Rural,Delhi,West,35821993,Masonry,Farming,N,Y,8.6
+431578,10-Mar-23,Rural,Tamil Nadu,West,10602288,Masonry,Hospitality,N,N,8.8
+718411,11-Mar-23,Urban,Karnataka,South,39536717,Masonry,Hospitality,N,Y,9.8
+773591,12-Mar-23,Urban,Delhi,Central,42914643,Masonry,Hospitality,Y,Y,8.2
+109724,13-Mar-23,Urban,Karnataka,West,2045708,Fire Resist,Farming,N,N,7.9
+871068,14-Mar-23,Rural,Karnataka,South,35446764,Masonry,Hospitality,Y,Y,8.0
+909746,15-Mar-23,Urban,Karnataka,North,2882163,Masonry,Apartment,N,N,9.3
+821837,16-Mar-23,Rural,Tamil Nadu,South,5875371,Masonry,Farming,Y,N,6.9
+651767,17-Mar-23,Rural,Gujarat,West,27470544,Frame,Apartment,N,N,9.0
+387169,18-Mar-23,Rural,Maharashtra,Central,22220856,Frame,Apartment,Y,N,8.3
+766950,19-Mar-23,Urban,Gujarat,Central,17060325,Masonry,Farming,Y,Y,6.5
+810122,20-Mar-23,Rural,Maharashtra,Central,39118926,Fire Resist,Hospitality,Y,Y,5.1
+832213,21-Mar-23,Urban,Delhi,West,34047204,Fire Resist,Retail,N,Y,6.0
+918270,22-Mar-23,Urban,Gujarat,North,19726002,Frame,Hospitality,Y,N,8.5
+118491,23-Mar-23,Urban,Maharashtra,Central,35944132,Frame,Apartment,Y,N,7.9
+114672,24-Mar-23,Urban,Karnataka,East,38060911,Fire Resist,Farming,Y,N,6.4
+978234,25-Mar-23,Urban,Delhi,North,13691328,Frame,Apartment,Y,N,7.2
+195868,26-Mar-23,Rural,Gujarat,South,4747633,Frame,Farming,Y,Y,8.3
+841539,27-Mar-23,Urban,Tamil Nadu,East,32771557,Masonry,Hospitality,Y,Y,5.6
+767194,28-Mar-23,Urban,Delhi,North,9925643,Fire Resist,Hospitality,N,Y,7.2
+313937,29-Mar-23,Urban,Karnataka,West,14361512,Masonry,Farming,Y,Y,7.1
+555786,30-Mar-23,Rural,Karnataka,East,35619886,Frame,Hospitality,Y,N,7.7
+173929,31-Mar-23,Rural,Karnataka,North,42674512,Frame,Hospitality,N,N,7.6
+943052,01-Apr-23,Urban,Maharashtra,North,18593616,Frame,Retail,Y,Y,6.8
+314797,02-Apr-23,Rural,Gujarat,North,7852101,Frame,Farming,N,N,8.8
+410137,03-Apr-23,Urban,Delhi,North,4827267,Fire Resist,Apartment,Y,Y,5.3
+469190,04-Apr-23,Rural,Gujarat,Central,44031718,Fire Resist,Hospitality,N,N,5.2
+988487,05-Apr-23,Urban,Gujarat,East,33087024,Fire Resist,Apartment,Y,N,7.1
+230061,06-Apr-23,Rural,Maharashtra,North,26958494,Fire Resist,Retail,Y,N,9.5
+952871,07-Apr-23,Rural,Maharashtra,South,7748586,Masonry,Hospitality,N,N,6.4
+639640,08-Apr-23,Urban,Karnataka,North,34028143,Masonry,Apartment,Y,N,5.9
+900729,09-Apr-23,Rural,Gujarat,Central,29220693,Masonry,Retail,Y,Y,9.6
+236968,10-Apr-23,Urban,Maharashtra,East,33805857,Frame,Farming,N,N,5.8
+636291,11-Apr-23,Rural,Karnataka,East,26414711,Fire Resist,Farming,Y,N,6.9
+959910,12-Apr-23,Urban,Delhi,North,2279306,Fire Resist,Farming,Y,Y,8.6
+910193,13-Apr-23,Urban,Maharashtra,North,28681823,Fire Resist,Retail,Y,Y,6.3
+273511,14-Apr-23,Rural,Maharashtra,South,47416467,Masonry,Hospitality,Y,Y,6.1
+229492,15-Apr-23,Urban,Delhi,East,34586242,Frame,Apartment,Y,N,7.0
+203897,16-Apr-23,Urban,Delhi,East,14303666,Frame,Apartment,N,N,8.9
+706146,17-Apr-23,Urban,Maharashtra,East,17665363,Frame,Farming,N,Y,9.6
+720092,18-Apr-23,Rural,Delhi,West,11455847,Masonry,Apartment,N,Y,5.2
+489520,19-Apr-23,Urban,Delhi,East,41359847,Fire Resist,Retail,N,N,5.8
+152280,20-Apr-23,Rural,Karnataka,East,30784637,Masonry,Hospitality,N,N,9.8
+991762,21-Apr-23,Urban,Maharashtra,South,6898849,Fire Resist,Hospitality,N,N,8.0
+529805,22-Apr-23,Urban,Delhi,South,36729324,Frame,Retail,N,N,7.8
+446775,23-Apr-23,Urban,Karnataka,Central,3435316,Fire Resist,Hospitality,Y,N,9.1
+659716,24-Apr-23,Rural,Maharashtra,South,46887212,Frame,Retail,N,Y,5.2
+424588,25-Apr-23,Urban,Maharashtra,East,43282718,Frame,Retail,N,Y,5.1
+430033,26-Apr-23,Urban,Maharashtra,East,34809530,Frame,Apartment,Y,Y,9.8
+323575,27-Apr-23,Rural,Delhi,East,34700327,Fire Resist,Retail,N,N,9.1
+187582,28-Apr-23,Rural,Delhi,South,7494398,Masonry,Apartment,N,N,8.7
+500950,29-Apr-23,Rural,Gujarat,North,3798480,Frame,Hospitality,Y,N,5.8
+321337,30-Apr-23,Urban,Karnataka,West,45204112,Fire Resist,Farming,Y,N,7.4
+390580,01-May-23,Rural,Gujarat,Central,38358078,Frame,Hospitality,N,N,9.7
+386049,02-May-23,Urban,Karnataka,North,32990918,Fire Resist,Apartment,N,Y,9.7
+126981,03-May-23,Rural,Tamil Nadu,West,24417645,Masonry,Retail,Y,Y,5.0
+962905,04-May-23,Rural,Gujarat,South,35585556,Frame,Hospitality,Y,N,8.8
+669751,05-May-23,Rural,Maharashtra,Central,1875002,Frame,Apartment,Y,N,5.0
+328763,06-May-23,Rural,Tamil Nadu,Central,9955550,Frame,Hospitality,Y,Y,9.9
+690877,07-May-23,Rural,Tamil Nadu,South,10744972,Masonry,Farming,Y,Y,7.1
+381505,08-May-23,Urban,Tamil Nadu,North,13920699,Fire Resist,Farming,Y,N,9.9
+121875,09-May-23,Urban,Karnataka,West,18830581,Frame,Hospitality,Y,Y,6.8
+923093,10-May-23,Rural,Delhi,East,27635681,Frame,Farming,Y,N,6.5
+758039,11-May-23,Urban,Delhi,East,24954010,Masonry,Apartment,Y,N,6.6
+701011,12-May-23,Rural,Tamil Nadu,West,31086546,Fire Resist,Retail,N,Y,8.7
+825846,13-May-23,Urban,Delhi,East,22351558,Masonry,Retail,N,N,6.0
+524438,14-May-23,Urban,Maharashtra,North,45442232,Masonry,Hospitality,Y,N,9.3
+751271,15-May-23,Rural,Delhi,South,12768962,Frame,Hospitality,N,N,8.0
